@@ -1,5 +1,3 @@
-# API-RESTful-Procesamiento-y-captura-de-datos
-
 # 📊 API de Datos Procesados con FastAPI
 
 Este proyecto es una API RESTful construida con **FastAPI** que expone datos previamente procesados. Se utiliza un dataset simple de países con métricas como población, PIB y esperanza de vida.
